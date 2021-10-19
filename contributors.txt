@@ -1,5 +1,2 @@
 contributors.txt
-Add your name on one line at the end of this document
-Michael Rogers
-Michael Rogers II
-Michael Rogers IV
+Add your first and last name on one line at the end of this document
