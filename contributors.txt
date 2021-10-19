@@ -1,2 +1,3 @@
 contributors.txt
 Add your name on one line at the end of this document
+Michael Rogers
