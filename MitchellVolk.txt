@@ -3,3 +3,57 @@ Version 2.0
 Version 3.0
 Version 4.0
 Version 5.0
+* b894591 (HEAD -> MitchellVolkBranch, origin/MitchellVolkBranch) v5.0
+* 0fbc58a v4.0
+* e31922a (main) v3.0
+* cf04690 v2.0
+* 1473f68 v1.0
+* ea1f43e Updated by Mitchell Volk
+* 414123d (origin/main, origin/MatthewKotrasBranch, origin/HEAD) v5.0
+* 891fab5 v4.0
+* 652cd4b v3.0
+* e09d91a v2.0
+* f6fd863 v1.0
+* 72fb0aa Updated by Matthew Kotras
+* e436cd2 Starting point
+*   b0a7128 Fixed conflict
+|\
+| * ea7eef0 Changed V to VI
+* | a885332 Added IV
+|/
+* ca87013 Changed IV to V
+* 2763399 Added IV
+*   f754ab3 fixed results
+|\
+| * d74c267 Added a IV
+:...skipping...
+* b894591 (HEAD -> MitchellVolkBranch, origin/MitchellVolkBranch) v5.0
+* 0fbc58a v4.0
+* e31922a (main) v3.0
+* cf04690 v2.0
+* 1473f68 v1.0
+* ea1f43e Updated by Mitchell Volk
+* 414123d (origin/main, origin/MatthewKotrasBranch, origin/HEAD) v5.0
+* 891fab5 v4.0
+* 652cd4b v3.0
+* e09d91a v2.0
+* f6fd863 v1.0
+* 72fb0aa Updated by Matthew Kotras
+* e436cd2 Starting point
+*   b0a7128 Fixed conflict
+|\
+| * ea7eef0 Changed V to VI
+* | a885332 Added IV
+|/
+* ca87013 Changed IV to V
+* 2763399 Added IV
+*   f754ab3 fixed results
+|\
+| * d74c267 Added a IV
+* | e25c715 Michael Rogers III
+|/
+* 9182932 Added a II
+* 3b66fce Added my name
+* c54caf3 Created contributors.txt
+* 9377063 Initial commit
+
