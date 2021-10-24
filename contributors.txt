@@ -1,4 +1,11 @@
 contributors.txt
 Add your first and last name on one line at the end of this document
+Sebastian Vang
 Matthew Kotras
 Maxwell Grimm
+Mitchell Volk
+Stephen Behnke
+Hailey Vadnais
+Joseph Kehoe
+Robert Weeden
+
