@@ -1,5 +1,15 @@
 contributors.txt
 Add your first and last name on one line at the end of this document
+Ramzi Nasri
+Sebastian Vang
 Matthew Kotras
 Stephen Behnke
+Maxwell Grimm
+Mitchell Volk
+Stephen Behnke
+Hailey Vadnais
+Joseph Kehoe
+Robert Weeden
+Bentley Epple
+Trevor Abel
 Nathan Lee
