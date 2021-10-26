@@ -17,3 +17,4 @@ Nathan Lee
 Ben Pink
 Dalton Fuller
 Stephanie Amundson
+David Vegter
